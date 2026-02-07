@@ -1,0 +1,41 @@
+.t{
+    justify-content: center;
+    display: flex;
+    gap: 30px;
+    
+}
+.h1{
+    text-align: center;
+}
+h1:hover{
+    color: violet;
+}
+
+h3:hover{
+    color:red;
+}
+.h2{
+text-align: center;
+}
+.t1{
+    text-align: center;
+}
+body{
+    background-color: violet;
+}
+a{
+    padding: 15px   30px;
+    border-radius: 30px;
+    display: inline-block;
+    font-weight: bold;
+    background-color: black;
+    color: white;
+}
+a:hover{
+    color: green;
+}
+fieldset{
+    border: none;
+    padding: none;
+    margin: none;
+}
